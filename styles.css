@@ -1,0 +1,139 @@
+.header{
+width: 1600px;
+
+line-height: 3;
+
+
+
+background-color: #faf5f5;
+
+font-weight: 20px;
+}
+
+*{
+    margin:0;
+}
+
+#name
+{
+    
+margin-left:10px;
+font-family: Poppins;
+font-size: 20px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.65;
+letter-spacing: normal;
+text-align: left;
+color: #0f0f0f;
+}
+
+#login{
+width: 43px;
+height: 23px;
+margin-top: 70px;
+color:rgb(5, 5, 5);
+font-weight: bold;
+font-size: 20px;
+margin-left: 980px;
+
+}
+
+#account{
+color: rgb(14, 13, 13);
+border: 1px solid rgb(250, 179, 229) ;
+margin:auto;
+margin-left:25px;
+border-radius:5px;
+font-size: 20px;
+font-weight: bold;
+}
+
+#account:hover{
+background-color:rgb(243, 202, 231) ;
+}
+  
+#logo{
+width: 45px;
+height: 45px;
+margin-left: 50px;
+position:fixed;
+position:absolute;
+padding:4;
+
+}
+
+#name {
+margin-left :980px;;
+}
+
+#home{
+  margin-right: 25;
+}
+#covid 
+{
+
+}
+
+#log{
+color: rgb(14, 13, 13);
+margin:auto;
+margin-left:30px;
+font-size: 20px;
+font-weight: bold;
+
+}
+.h1
+{
+color:rgb(77, 77, 136);
+font-size: 45px;
+font-family:'Times New Roman', Times, serif;
+margin-left:40px;
+}
+.path {
+width: 1320;
+height: 0;
+margin:23px;
+margin-left: 31px;
+border: solid 1px #dedfe5;
+}
+
+.p{
+
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+margin-left:32px;
+
+}
+.para{
+margin-left:850px;
+margin-top:-480px;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+}
+.para1{
+margin-left:850px;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.fund{
+margin-left:500px;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+/* styles.css | file:///C:/Users/Bhavana/Desktop/fswd%20-01/styles.css */
+
+#name {
+  /* margin-left: 10px; */
+  /* margin-left: 3434; */
+  /* margin-left: 980px''; */
+  margin-left: 110;
+}
+
+
+
+
